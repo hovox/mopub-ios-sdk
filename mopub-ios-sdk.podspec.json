@@ -1,12 +1,12 @@
 {
   "name": "mopub-ios-sdk",
   "module_name": "MoPub",
-  "version": "4.14.0",
+  "version": "4.14.2",
   "license": {
     "type": "New BSD",
     "file": "LICENSE"
   },
-  "homepage": "https://github.com/mopub/mopub-ios-sdk",
+  "homepage": "https://github.com/hovox/mopub-ios-sdk",
   "authors": {
     "MoPub": "support@mopub.com"
   },
@@ -14,8 +14,8 @@
   "description": "MoPub is a hosted ad serving solution built specifically for mobile publishers.\n\nGrow your mobile advertising business with powerful ad management, optimization \n\nand reporting capabilities, and earn revenue by connecting to the world's largest \n\nmobile ad exchange. \n\n\nTo learn more or sign up for an account, go to http://www.mopub.com.",
   "social_media_url": "http://twitter.com/mopub",
   "source": {
-    "git": "https://github.com/mopub/mopub-ios-sdk.git",
-    "tag": "4.14.0"
+    "git": "https://github.com/hovox/mopub-ios-sdk.git",
+    "tag": "4.14.2"
   },
   "requires_arc": true,
   "platforms": {
