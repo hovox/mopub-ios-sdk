@@ -15,6 +15,9 @@
 
 @optional
 
+- (void)willTrackImpressionForNativeAd:(MPNativeAd *)nativeAd;
+- (void)willTrackClickForNativeAd:(MPNativeAd *)nativeAd;
+
 /**
  * Sent when the native ad will present its modal content.
  *
